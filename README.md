@@ -1,1 +1,1 @@
-# soil-soul-project
+# SoilSoul
